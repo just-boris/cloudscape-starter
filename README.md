@@ -1,2 +1,3 @@
 # cloudscape-starter
-Starter project to use cloudscape.design system
+
+Starter project to use [cloudscape.design](https://cloudscape.design) system
