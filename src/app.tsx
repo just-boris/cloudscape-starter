@@ -34,7 +34,7 @@ export function App() {
           header={
             <Header
               actions={
-                <Button variant="primary" onClick={() => alert("Not implemented")}>
+                <Button data-testid="action-button" variant="primary" onClick={() => alert("Not implemented")}>
                   Action
                 </Button>
               }
